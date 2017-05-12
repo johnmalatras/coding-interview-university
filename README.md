@@ -267,13 +267,13 @@ Make your own for free:
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 - ### Linked Lists
-    - [ ] Description:
+    - [x] Description:
         - [x] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
         - [x] [CS 61B - Linked Lists (video)](https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5)
     - [x] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
-    - [ ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+    - [x] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
 
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
     - [x] implement (I did with tail pointer & without):
