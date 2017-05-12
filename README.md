@@ -294,6 +294,8 @@ Make your own for free:
     - [x] Doubly-linked List
         - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
         - No need to implement
+    - [x] CTCI Chapter Questions
+    - [x] PIE Chapter Questions
 
 - ### Stack
     - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
