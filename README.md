@@ -231,7 +231,7 @@ Make your own for free:
 
 - ### Arrays
     - Implement an automatically resizing vector.
-    - [ ] Description:
+    - [x] Description:
         - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
         - [UCBerkley CS61B - Linear and Multi-Dim Arrays (video)](https://youtu.be/Wp8oiO_CZZE?t=15m32s)
         - [Basic Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)
@@ -241,10 +241,6 @@ Make your own for free:
         - [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
         - [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
     - [ ] Implement a vector (mutable array with automatic resizing):
-        - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
-        - [ ] new raw data array with allocated memory
-            - can allocate int array under the hood, just not use its features
-            - start with 16, or if starting number is greater, use power of 2 - 16, 32, 64, 128
         - [ ] size() - number of items
         - [ ] capacity() - number of items it can hold
         - [ ] is_empty()
@@ -259,12 +255,14 @@ Make your own for free:
         - [ ] resize(new_capacity) // private function
             - when you reach capacity, resize to double the size
             - when popping an item, if size is 1/4 of capacity, resize to half
-    - [ ] Time
+    - [x] Time
         - O(1) to add/remove at end (amortized for allocations for more space), index, or update
         - O(n) to insert/remove elsewhere
-    - [ ] Space
+    - [x] Space
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
+    - [x] CTCI Chapter Questions
+    - [x] PIE Chapter Questions
 
 - ### Linked Lists
     - [x] Description:
@@ -301,6 +299,8 @@ Make your own for free:
     - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
     - [ ] [Using Stacks Last-In First-Out (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
     - [ ] Will not implement. Implementing with array is trivial.
+    - [] CTCI Chapter Questions
+    - [] PIE Chapter Questions
 
 - ### Queue
     - [ ] [Using Queues First-In First-Out(video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
@@ -322,6 +322,8 @@ Make your own for free:
         - enqueue: O(1) (amortized, linked list and array [probing])
         - dequeue: O(1) (linked list and array)
         - empty: O(1) (linked list and array)
+    - [] CTCI Chapter Questions
+    - [] PIE Chapter Questions
 
 - ### Hash table
     - [ ] Videos:
