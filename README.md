@@ -299,8 +299,8 @@ Make your own for free:
     - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
     - [ ] [Using Stacks Last-In First-Out (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
     - [ ] Will not implement. Implementing with array is trivial.
-    - [] CTCI Chapter Questions
-    - [] PIE Chapter Questions
+    - [ ] CTCI Chapter Questions
+    - [ ] PIE Chapter Questions
 
 - ### Queue
     - [ ] [Using Queues First-In First-Out(video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
@@ -322,8 +322,8 @@ Make your own for free:
         - enqueue: O(1) (amortized, linked list and array [probing])
         - dequeue: O(1) (linked list and array)
         - empty: O(1) (linked list and array)
-    - [] CTCI Chapter Questions
-    - [] PIE Chapter Questions
+    - [ ] CTCI Chapter Questions
+    - [ ] PIE Chapter Questions
 
 - ### Hash table
     - [ ] Videos:
