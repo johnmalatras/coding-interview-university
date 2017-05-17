@@ -14,6 +14,12 @@
     - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
     - balanced search trees (general concept, not details)
     - traversals: preorder, inorder, postorder, BFS, DFS
+- [Graphs](#graphs)
+    - directed
+    - undirected
+    - adjacency matrix
+    - adjacency list
+    - traversals: BFS, DFS
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search)
     - [Bitwise operations](#bitwise-operations)
@@ -23,12 +29,6 @@
     - heapsort
     - quicksort
     - merge sort
-- [Graphs](#graphs)
-    - directed
-    - undirected
-    - adjacency matrix
-    - adjacency list
-    - traversals: BFS, DFS
 - [Even More Knowledge](#even-more-knowledge)
     - [Recursion](#recursion)
     - [Dynamic Programming](#dynamic-programming)
